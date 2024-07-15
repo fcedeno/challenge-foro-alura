@@ -100,7 +100,3 @@ Importa el proyecto en tu IDE preferido.
 Configura las credenciales de la base de datos en el archivo application.properties.
 Ejecuta la aplicación y accede a la API a través de http://localhost:8080.
 
-## Insignia obtenida
-![cms_files_10224_1673890737Prancheta_9](https://github.com/leonelSubelza/Challenge-ONE-Foro-Alura-API/assets/85598026/12c5d84c-aa69-42ff-b547-08d0a2c99d2b)
-
-[comment]: <> (Para guardar iconos de una pagina se puede poner el url base más /favicon.ico y sino funciona entonces se lo debe encontrar en el head)
